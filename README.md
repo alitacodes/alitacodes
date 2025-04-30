@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alitacodes" alt="alitacodes" /></a> </p>
 
-- ⭐Google Solution Challenge 2025 project [The BookShelf](https://bookfinder1010.vercel.app/)
+- ⭐Google Solution Challenge 2025 project [Bagaan](https://bagaan.vercel.app/)
 
 - 🌱 I’m currently learning **Web3, JS, ReactJS, NextJS, NodeJS, Quantum Computing**
 
