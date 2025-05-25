@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi👋🏻, I am Sneha Mandal :
 👩🏻‍💻 Currently developing my website, The BookShelf: https://bookfinder1010.vercel.app/<br>🛠️ Deepening expertise in Backend Development.<br> ⛃ Proficient in MySQL and currently expanding expertise in MongoDB.<br>🌱 Exploring the world of WE₿3 & Quantum♾️Computing
 
 
@@ -24,4 +24,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=alitacodes&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/alitacodes/alitacodes/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img align="left" height="120" src="https://res.cloudinary.com/ddqqsd2gq/image/upload/v1748174246/penguin-yellow_yzzpzq.png"  />
+
+###
