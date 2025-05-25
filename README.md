@@ -25,6 +25,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=alitacodes&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://raw.githubusercontent.com/alitacodes/alitacodes/output/snake.svg" alt="Snake animation" />
 
-###
+![GitHub Snake Light](https://raw.githubusercontent.com/alitacodes/alitacodes/output/github-snake.svg)
+
+![GitHub Snake Dark](https://raw.githubusercontent.com/alitacodes/alitacodes/output/github-snake-dark.svg#gh-dark-mode-only)
