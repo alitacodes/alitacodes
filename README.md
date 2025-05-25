@@ -1,5 +1,5 @@
-# Hi👋🏻, I am Sneha Mandal <img align="left" height="30" src="https://res.cloudinary.com/ddqqsd2gq/image/upload/v1748174246/penguin-yellow_yzzpzq.png"  />
-:
+# Hi👋🏻, I am Sneha Mandal <img align="left" height="40" src="https://res.cloudinary.com/ddqqsd2gq/image/upload/v1748174246/penguin-yellow_yzzpzq.png"  />:
+
 👩🏻‍💻 Currently developing my website, The BookShelf: https://bookfinder1010.vercel.app/<br>🛠️ Deepening expertise in Backend Development.<br> ⛃ Proficient in MySQL and currently expanding expertise in MongoDB.<br>🌱 Exploring the world of WE₿3 & Quantum♾️Computing
 
 
