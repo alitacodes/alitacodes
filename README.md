@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sneha Mandal</h1>
 <h3 align="center">Cloud Computation & DevOps | Web Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alitacodes" alt="alitacodes" /></a> </p>
-
 - Currently working on [SuSi](will_be_available_soon)
 
 - Research study on **Quantum Computation**
@@ -27,6 +25,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alitacodes&show_icons=true&theme=tokyonight&title_color=fe4d8b&locale=en" alt="alitacodes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alitacodes&" alt="alitacodes" /></p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=alitacodes&theme=tokyonight)](https://git.io/streak-stats)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=alitacodes&color=blueviolet)
+
+[![My Skills](https://skillicons.dev/icons?i=aws,python,java,react,nodejs,mysql,linux)](https://skillicons.dev)
 
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/alitacodes/alitacodes/output/github-snake-dark.svg#gh-dark-mode-only)
