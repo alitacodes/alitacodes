@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sneha Mandal</h1>
-<h3 align="center">Cloud Computation & DevOps | Web Developer</h3>
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Sneha Mandal<h3 align="center">Cloud Computation & DevOps | Web Developer</h3>
 
 - Currently working on [SuSi](will_be_available_soon)
 
