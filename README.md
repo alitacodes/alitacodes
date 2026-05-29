@@ -1,4 +1,4 @@
-<img align="left" height="40" src="https://res.cloudinary.com/ddqqsd2gq/image/upload/v1748174246/penguin-yellow_yzzpzq.png"  />:<h1 align="center">Hi 👋, I'm Sneha Mandal</h1>
+<h1 align="center">Hi 👋, I'm Sneha Mandal</h1>
 <h3 align="center">Cloud Computation(DevOps) and Web Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alitacodes" alt="alitacodes" /></a> </p>
